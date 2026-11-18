@@ -17,4 +17,4 @@ lib_wfa2 = { git = "https://github.com/AndreaGuarracino/lib_wfa2", rev = "c61917
 # Used by es2bit_bench to measure gzip-compressed byte sizes.
 flate2 = "1"
 # Used by es2bit_bench to encode the tracepoint streams exactly as TPA does.
-tpa = { git = "https://github.com/AndreaGuarracino/tpa", rev = "f96bbd5aa0e5c763ac102cb7962a993ce63f01a5" }
+tpa = { git = "https://github.com/AndreaGuarracino/tpa", rev = "a9ee80266922429107b81f3ca3683ed04d83e87a" }
